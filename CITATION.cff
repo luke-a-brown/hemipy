@@ -1,0 +1,22 @@
+message: 'If you use this module, please cite the accompanying Methods in Ecology and Evolution paper as below.'
+preferred-citation:
+  type: article
+  authors:
+  - family-names: 'Brown'
+    given-names: 'Luke A.'
+  - family-names: 'Morris'
+    given-names: 'Harry'
+  - family-names: 'Leblanc'
+    given-names: 'Sylvain'
+  - family-names: 'Bai'
+    given-names: 'Gabriele'
+  - family-names: 'Lanconelli'
+    given-names: 'Christian'
+  - family-names: 'Gobron'
+    given-names: 'Nadine'
+  - family-names: 'Meier'
+    given-names: 'Courtney'
+  - family-names: 'Dash'
+    given-names: 'Jadunandan'
+  journal: 'Methods in Ecology and Evolution'
+  title: 'HemiPy: A Python module for automated estimation of forest biophysical variables and uncertainties from digital hemispherical photographs'
